@@ -2,8 +2,7 @@ gol (Game Of Life)
 ==============================
 
 [![GitHub stars](https://img.shields.io/github/stars/andresjpulido/gol)](https://github.com/andresjpulido/gol/stargazers)
-[![TravisCI](https://travis-ci.org/uber/Python-Sample-Application.svg?branch=master)](https://travis-ci.org/andresjpulido/gol)
-[![Coverage Status](https://coveralls.io/repos/uber/Python-Sample-Application/badge.png)](https://coveralls.io/r/andresjpulido/gol)
+[![GitHub license](https://img.shields.io/github/license/andresjpulido/gol)](https://github.com/andresjpulido/gol)
 
 https://github.com/andresjpulido/gol
 
